@@ -1,2 +1,3 @@
 # Digital-Cash-Quotation
 “Digital Cash Quotation”technical support
+"Digital Cash Quotation" is an app for viewing and exchanging digital currency quotation information. Users can see the latest quotation information on the "currency" page and exchange relevant information in the circle. We regulate the content of the circle through reporting and blocking mechanisms. We will also push some articles related to digital currency for users to watch, so as to facilitate users to obtain information. "Digital Cash Quotation" is your close assistant, come and experience it…For any comments and suggestions, please contact us:“Digital Cash Quotation” official email:xinfeiyang009@icloud.com
